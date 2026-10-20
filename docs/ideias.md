@@ -3,3 +3,5 @@
 - Herói com vida
 - Inimigos
 - Combate em turnos
+- Mago
+- Arqueiro
