@@ -5,3 +5,4 @@ Mini-RPG em Java desenvolvido durante as aulas de Programação Orientada a Obje
 ## Estado atual
 
 Primeira versão sob controle de versão.
+Repositório publicado durante a prática de Git e GitHub.
